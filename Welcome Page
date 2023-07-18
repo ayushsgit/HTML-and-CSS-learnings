@@ -1,0 +1,16 @@
+<html>
+<body>
+    <div>
+      <h1>Welcome!</h1>
+      <p>You have been granted acess to the platform.</p>
+      <p>Please create an account.</p>
+      <input type="text" placeholder="Enter Username">
+      <input type="password" placeholder="Enter Password">
+      <button>Sign up!</button>
+      <input type="date" placeholder="Enter Date">
+      <input type="time" >
+      <input type="color" placeholder="Enter Color">
+      <input type="file" >
+    </div>
+</body>
+</html>
