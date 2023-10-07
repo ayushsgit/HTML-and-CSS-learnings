@@ -2,6 +2,8 @@
 The code i wrote while learning HTML and CSS
 
 <img src="https://imgur.com/XFgkDHX.png" width="50%">
+![image](https://github.com/ayushsgit/HTML-and-CSS-learnings/assets/115374687/68f5af1e-5098-43c2-99a8-41d25102e7c6)
+
 
 Google Clone
 
